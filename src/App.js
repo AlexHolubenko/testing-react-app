@@ -10,6 +10,7 @@ function App() {
         <Link to="/login">Login</Link>
         <Link to="/counter">Counter</Link>
       </nav>
+      <p>asdasd</p>
       <Routes>
         <Route
           path="login"
